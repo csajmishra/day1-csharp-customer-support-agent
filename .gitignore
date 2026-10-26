@@ -1,0 +1,20 @@
+# Build and test output
+**/bin/
+**/obj/
+**/TestResults/
+.vs/
+.idea/
+*.user
+*.suo
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+.azure/
+secrets.json
+appsettings.*.json
+
+# IDE and operating-system files
+.DS_Store
+Thumbs.db

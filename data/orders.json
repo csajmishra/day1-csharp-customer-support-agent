@@ -1,0 +1,52 @@
+[
+  {
+    "orderId": "ORD-1001",
+    "customerId": "CUS-1001",
+    "placedOn": "2026-08-14",
+    "returnByDate": "2026-11-12",
+    "shipmentStatus": "Delivered",
+    "trackingNumber": "SYNTH-TRK-1001",
+    "items": [
+      {
+        "itemId": "ITEM-1001-A",
+        "productName": "Trail Lantern",
+        "quantity": 1
+      },
+      {
+        "itemId": "ITEM-1001-B",
+        "productName": "Insulated Bottle",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "orderId": "ORD-1002",
+    "customerId": "CUS-1001",
+    "placedOn": "2026-10-02",
+    "returnByDate": "2026-12-31",
+    "shipmentStatus": "InTransit",
+    "trackingNumber": "SYNTH-TRK-1002",
+    "items": [
+      {
+        "itemId": "ITEM-1002-A",
+        "productName": "Daypack 24L",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "orderId": "ORD-2001",
+    "customerId": "CUS-2002",
+    "placedOn": "2026-09-18",
+    "returnByDate": "2026-12-17",
+    "shipmentStatus": "Delivered",
+    "trackingNumber": "SYNTH-TRK-2001",
+    "items": [
+      {
+        "itemId": "ITEM-2001-A",
+        "productName": "Camp Stove",
+        "quantity": 1
+      }
+    ]
+  }
+]
